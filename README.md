@@ -8,11 +8,8 @@ Download or clone repository
 Node.js is required to run the application
 npm install to install the inquirer npm package
 
-## Link to Deployed Application
-
-
 ## Video Demo
-
+https://watch.screencastify.com/v/VzVGPsrGL4o2xVENSYDJ
 
 ## Questions
 For any questions, please contact me using the information below: 
